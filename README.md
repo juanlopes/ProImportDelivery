@@ -1,5 +1,4 @@
-/* 
-*  -| 17/04/2020 |-------------------------------------------------------------------------
+*  ------------------------------------------------------------| 17/04/2020 |-------------
 *    ProImportDelivery - The code generates worksheets csv to import into BigData Delivery
 *    Developer: Juan Matheus Lopes
 *	 Skype: juan.lopes66
